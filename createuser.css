@@ -1,0 +1,17 @@
+.div{
+    display: flex;
+    justify-content: center;
+    margin:10% 0px;
+}
+
+form{
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+}
+input{
+    margin: 10px 0px;
+}
+button{
+    width: 100%;
+}

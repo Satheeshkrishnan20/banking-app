@@ -1,0 +1,73 @@
+table,td,tr,th{
+    border:1px solid black;
+    padding:10px;
+    border-collapse:collapse;
+    font-size:large;
+    
+}
+.form{
+    display:flex;
+    justify-content:center;
+    margin-top:40px;
+}
+
+thead{
+    background-color:green;
+    color:white;
+}
+
+/*  */
+
+*{
+   
+    margin: 0px;
+}
+
+.admin{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.admin p{
+    background-color: blue;
+    color: white;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin:3% 0px;
+}
+.admin button{
+    padding: 8px 15px;
+    background-color: rgb(6, 92, 19);
+    color: white;
+    border: rgb(6, 92, 19);
+    border-radius: 5px;
+    font-size: large;
+    transition: 0.5s;
+}
+
+button:hover{
+    color: rgb(6, 92, 19);
+    background-color: white;
+    border: 1px solid green;
+}
+
+/*  */
+
+
+.logout{
+    float: right;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+
+
+}
+.logout a{
+    text-decoration: none;
+    font-size: larger;
+    background-color: red;
+    color: white;
+    padding: 4px 5px;
+    border-radius: 10px;
+
+}

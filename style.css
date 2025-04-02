@@ -1,0 +1,65 @@
+
+body{
+    background-color: bisque;
+}
+.div2{
+    border: 1px solid black;
+    width: 30%;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: white;
+}
+.div1{
+    text-align: center;
+    background-color: white;
+}
+
+
+.div3{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: bisque;
+}
+.he{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    width: 100%;
+    background-color: white;
+    
+}
+.he1{
+    
+    width: 90%;
+    background-color: white;
+
+}
+button{
+   text-align: center;
+}
+.btn{
+    text-align: center;
+    margin: 20px 0px;
+}
+button{
+    padding: 10px 0px;
+    width: 40%;
+    color: white;
+    background-color: rgb(34, 34, 42);
+    font-weight: bolder;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+input{
+    width: 100%;
+    margin: 10px 0px;
+    padding: 7px 0px;
+    border-radius: 10px;
+}
+label{
+    font-size: 25px;
+    font-weight:600;
+}
